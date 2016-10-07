@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="ff386f4c" foreColor="white" name="nbeditor-bracesMatching-match">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff253e5a" name="text-limit-line-color"/>
+    <fontcolor bgColor="ff253e5a" foreColor="white" name="code-folding"/>
+    <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
+    <fontcolor bgColor="ff6f3757" foreColor="white" name="nbeditor-bracesMatching-mismatch">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor bgColor="ff1b3450" name="highlight-caret-row"/>
+    <fontcolor foreColor="yellow" name="caret-color-overwrite-mode"/>
+    <fontcolor name="status-bar"/>
+    <fontcolor bgColor="darkGray" name="guarded"/>
+    <fontcolor name="trailing-whitespace"/>
+    <fontcolor bgColor="ff6f3757" foreColor="white" name="nbeditor-bracesMatching-mismatch-multichar">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="red" name="status-bar-bold"/>
+    <fontcolor name="nbeditor-bracesMatching-sidebar"/>
+    <fontcolor bgColor="ff121e31" foreColor="white" name="line-number"/>
+    <fontcolor bgColor="darkGray" name="readonly-files"/>
+    <fontcolor bgColor="ff38566f" name="highlight-search"/>
+    <fontcolor foreColor="ff253e5a" name="code-folding-bar"/>
+    <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
+    <fontcolor foreColor="ff253e5a" name="indent-guide-lines"/>
+    <fontcolor name="indent-whitespace"/>
+    <fontcolor bgColor="ff5d719c" foreColor="white" name="block-search"/>
+    <fontcolor bgColor="ff373b41" name="selection"/>
+    <fontcolor bgColor="ff38566f" name="inc-search"/>
+    <fontcolor bgColor="ff386f4c" foreColor="white" name="nbeditor-bracesMatching-match-multichar">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="yellow" name="caret-color-insert-mode"/>
+    <fontcolor foreColor="ffa4a4ff" name="hyperlinks" underline="ffa4a4ff"/>
+</fontscolors>
