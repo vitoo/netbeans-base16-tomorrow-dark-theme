@@ -17,10 +17,12 @@ Not yet terminated ! Feel free to contribute.
 - JavaSript
 - Java
 
-## Install
+## Installation
 
 Zip the config folder and import in NetBeans Options
 
-## Contribution
+## Contribution HowTo
 
-Edit this theme in NetBeans, export the theme and unzip the config folder. 
+- Import this theme in NetBeans
+- Update the theme 
+- Export it from NetBeans, unzip the 'config' folder and commit your change here :) 
